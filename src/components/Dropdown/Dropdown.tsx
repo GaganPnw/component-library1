@@ -12,7 +12,7 @@ interface DropdownProps {
 const DropdownWrapper = styled.select<DropdownProps>`
   /* Default styles */
   padding: 10px;
-  border: none;
+  border: 2px;
   cursor: pointer;
 
   /* Background color */
