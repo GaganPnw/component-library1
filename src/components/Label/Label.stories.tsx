@@ -7,6 +7,7 @@ export default {
   component: Label,
 } as Meta;
 
+/*checking git Commit */
 const Template: Story = (args) => <Label {...args} />;
 
 export const Default = Template.bind({});
