@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 interface TableProps {
-  data: any[];
+  data: number[];
   columns: string[];
   fontSize?: string;
   fontColor?: string;
