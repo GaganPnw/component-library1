@@ -56,4 +56,6 @@ const HeroImage: React.FC<HeroImageProps> = ({
   );
 };
 
+
 export default HeroImage;
+
